@@ -8,4 +8,4 @@ echo "alias netstat='grc netstat'" >> /root/.bashrc
 echo "alias dig='grc dig'" >> /root/.bashrc
 echo "alias traceroute='grc traceroute'" >> /root/.bashrc
 
-apt install net-tools dnsutils traceroute grc -y
+apt install net-tools dnsutils traceroute mtr grc -y
