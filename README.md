@@ -1,4 +1,4 @@
-<h1 COLORIR O SHELL BASH </h1>\
+ COLORIR O SHELL BASH
 
 Faça a instalação dos pacotes depois ensira os comandos no terminal 
 
