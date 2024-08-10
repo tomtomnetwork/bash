@@ -2,6 +2,6 @@
 
 Faça a instalação dos pacotes depois ensira os comandos no terminal 
 
-:point_right: apt install net-tools dnsutils traceroute mtr grc -y
+:point_right: apt install net-tools dnsutils traceroute mtr grc bpytop -y
 
-👉 apt install bpytop -y
+👉 apt install bpytop -y 
